@@ -1,0 +1,41 @@
+body{
+    font-family: Helvetica, sans-serif;
+}
+a:link, a:visited{
+    color: #ff6600;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+#jooj{
+    width: 980px;
+    margin: auto;
+    background: #87CEFA;
+    padding: 10px 10px 10px 30px;
+}
+header nav ul li{
+    display: inline-block;
+    margin-right: 20px;
+}
+header nav ul{
+    list-style: none;
+    padding: 0px;
+}
+header nav ul li a{
+    font-size: 18px;
+}
+#content{
+    float: left;
+    width: 650px;
+}
+#sidebar{
+    float: right;
+    width: 300px;
+}
+#sidebar{
+    list-style: none;
+}
+footer{
+    clear: both;
+}
