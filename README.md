@@ -1,2 +1,2 @@
 # NNN
- Noticias Não Noticadas
+ Notícias Não Noticiadas
